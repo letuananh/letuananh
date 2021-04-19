@@ -2,6 +2,8 @@
 
 Le Tuan Anh is a semanticist who is deeply interested in well-being, languages, and free software. His main research interests are in computational meaning and theory of language.
 
+In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) - a Python 3 library for manipulating Japanese linguistic resources: Jim Breen’s JMdict, KanjiDic2, JMnedict, and kanji-radical mappings.
+
 Currently, Tuan Anh is a research fellow at the [Brain Language & Intersensory Perception (BLIP)](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) Lab, at the [Lifespan Research Centre](https://www.facebook.com/lifespanntu), [School of Social Sciences (SSS)](https://sss.ntu.edu.sg/), Nanyang Technological University (NTU), Singapore.
 
 My research journey: https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/
