@@ -6,7 +6,7 @@ In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) -
 
 Currently, Tuan Anh is a research fellow at the [Brain Language & Intersensory Perception (BLIP)](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) Lab, at the [Lifespan Research Centre](https://www.facebook.com/lifespanntu), [School of Social Sciences (SSS)](https://sss.ntu.edu.sg/), Nanyang Technological University (NTU), Singapore.
 
-My research journey: https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/
+Tuan Anh's research journey: https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/
 
 <!--
 **letuananh/letuananh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
