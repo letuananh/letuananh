@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Le Tuan Anh is a semanticist who is deeply interested in well-being, languages, and free software. His main research interests are in computational meaning and theory of language.
+Le Tuan Anh is a semanticist who is deeply interested in well-being, languages, and free software. His main research interests are in computational meaning and theory of language. He is the author of the [coolisf software](https://pypi.org/project/coolisf/), which provides computational deep semantic analysis by combining structural semantics from construction grammars and lexical semantics from ontologies in a single representation. The dissertation (2019), source code, and data are available on the [Open Science Framework](https://osf.io/x52fy/). 
 
 In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) - a Python 3 library for manipulating Japanese linguistic resources: Jim Breen’s JMdict, KanjiDic2, JMnedict, and kanji-radical mappings.
 
