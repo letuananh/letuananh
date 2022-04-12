@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-Le Tuan Anh is a semanticist who is deeply interested in well-being, languages, and free software. His main research interests are in computational meaning and theory of language. He is the author of the [coolisf software](https://pypi.org/project/coolisf/), which provides computational deep semantic analysis by combining structural semantics from construction grammars and lexical semantics from ontologies in a single representation. The dissertation (2019), source code, and data are available on the [Open Science Framework](https://osf.io/9udjk/). 
+Le Tuan Anh is a semanticist who is deeply interested in well-being, languages, and free software.
+His main research interests are in computational meaning and theory of language.
+He is the author of the [coolisf software](https://pypi.org/project/coolisf/), which provides computational deep semantic analysis by combining structural semantics from construction grammars and lexical semantics from ontologies in a single representation.
+The dissertation (2019), source code, and data are available on the [Open Science Framework](https://osf.io/9udjk/).
 
-In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) - a free and open-source Python 3 library for manipulating Japanese linguistic resources: Jim Breen’s JMdict, KanjiDic2, JMnedict, and kanji-radical mappings. There is an online demo available at: https://jamdict.herokuapp.com/
+In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) - a free and open-source Python 3 library for manipulating Japanese linguistic resources: Jim Breen’s JMdict, KanjiDic2, JMnedict, and kanji-radical mappings.
+There is an online demo available at: https://jamdict.herokuapp.com/
 
-Currently, Tuan Anh is a research fellow at the [Brain Language & Intersensory Perception (BLIP)](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) Lab, at the [Lifespan Research Centre](https://www.facebook.com/lifespanntu), [School of Social Sciences (SSS)](https://sss.ntu.edu.sg/), Nanyang Technological University (NTU), Singapore.
-
-Tuan Anh's research journey: https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/
+From Mar 2019 to Apr 2022, Tuan Anh worked as [research fellow](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) at Nanyang Technological University (NTU), Singapore and contributed to the development of [BELA](https://github.com/letuananh/bela) - a pathway for creating, checking, visualizing, and analysing multilingual corpuses of natural languages.
 
 <!--
 **letuananh/letuananh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
