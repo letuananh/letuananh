@@ -8,7 +8,7 @@ The dissertation (2019), source code, and data are available on the [Open Scienc
 In his free time, Tuan Anh develops [jamdict](https://jamdict.readthedocs.io/) - a free and open-source Python 3 library for manipulating Japanese linguistic resources: Jim Breen’s JMdict, KanjiDic2, JMnedict, and kanji-radical mappings.
 There is an online demo available at: https://jamdict.herokuapp.com/
 
-From Mar 2019 to Apr 2022, Tuan Anh worked as [research fellow](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) at Nanyang Technological University (NTU), Singapore and contributed to the development of [BELA](https://github.com/letuananh/bela) - a pathway for creating, checking, visualizing, and analysing multilingual corpuses of natural languages.
+From Mar 2019 to Apr 2022, Tuan Anh was a [research fellow](https://blogs.ntu.edu.sg/blip/research-journey-le-tuan-anh/) at Nanyang Technological University (NTU), Singapore and contributed to the development of [BELA](https://github.com/letuananh/bela) - a pathway for creating, checking, visualizing, and analysing multilingual corpuses of natural languages.
 
 <!--
 **letuananh/letuananh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
